@@ -18,7 +18,7 @@ options(shiny.maxRequestSize=30*1024^2)
 ui <- shinyUI(fluidPage(
   
   # App title ----
-  titlePanel("Bill-Payment Data Cleansing UAT"),
+  titlePanel("IO-BILL BGO ESE/WSE SERVICE"),
   
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
