@@ -18,7 +18,7 @@ options(shiny.maxRequestSize=30*1024^2)
 ui <- shinyUI(fluidPage(
   
   # App title ----
-  titlePanel("Proteus - NPT ESE Service"),
+  titlePanel("IO-BILL - NPT ESE Service"),
   
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
